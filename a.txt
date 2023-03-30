@@ -1,7 +1,4 @@
 hio
-<<<<<<< HEAD
 helloworldhelloworldhelloworldhelloworld
 hellohellohello
-=======
 지현ㅋ
->>>>>>> d02924322ae95c9f026952f61b5414647b04c4f7
